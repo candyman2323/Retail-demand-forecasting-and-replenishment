@@ -1,0 +1,7 @@
+{
+    "regressor__n_estimators": 100,
+    "regressor__min_samples_split": 2,
+    "regressor__min_samples_leaf": 2,
+    "regressor__max_features": "sqrt",
+    "regressor__max_depth": null
+}
